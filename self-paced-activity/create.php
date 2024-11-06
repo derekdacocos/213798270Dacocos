@@ -38,5 +38,6 @@
         Enrollment Date: <input type="date" name="enrollment_date" required><br><br>
         <button type="submit">Add Student</button>
     </form>
+    <a href="index.php">Back</a>
 </body>
 </html>
